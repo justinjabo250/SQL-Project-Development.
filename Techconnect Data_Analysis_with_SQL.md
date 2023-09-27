@@ -1,22 +1,29 @@
-# Data Analysis with SQL
+# Data Analysis Development Project using SQL Query
+
+![Sqll](https://github.com/justinjabo250/SQL-Project-Development./assets/115732734/85018e6e-51ba-4495-944c-eac623e6548d)
+
+# Examine data for the telecom firm techconnect
 
 ![source: The Rise of SQL - IEEE Spectrum](https://assets.rbl.ms/31141774/origin.jpg)
 
 # Intro
 
-In this project, we are going to analyze data for a telecom company called techconnect. At the end of this project, you will have a fair understanding of how to approach data analysis when working with a large database.
+In this project, we will examine data for the telecom firm techconnect. You will have a basic idea of how to approach data analysis when dealing with a large database at the end of this assignment.
 
 
 ## Why Use SQL?
 
-You can use python alone to do almost anything when it comes to data analysis and data science. From data preparation, visualization and even machine learning, python is a very reliable tool for analyzing thousands of rows of data, but when you have data containing millions and millions of rows is where you start running into problems. Let me explain.
 
-With more data involved, python libraries become less and less efficient for data analysis. Have you ever run code in jupyter notebook and it takes like 3minutes to execute? This kind of inefficiency is what I’m talking about. So that’s where SQL comes in. SQL was created to analyze millions and trillions of rows of data in the most efficient way possible. It can be used to get insights from a large database in seconds! 
+Python alone may be used to perform practically any data analysis or data science task. Python is a fairly dependable tool for studying data with thousands of rows, but when the data has millions or billions of rows, problems begin to arise with data preparation, visualization, and even machine learning. I'll explain.
+
+
+Python modules become less and less effective for data analysis when there is more data involved. Have you ever ran a piece of code in a Jupyter notebook that takes around three minutes to complete? I'm referring to inefficiency of this sort. So SQL enters the picture here. In order to examine billions of rows of data as quickly as possible, SQL was developed. It can be used to quickly uncover insights from a sizable database! 
 
 
 ## The database
 
-For this project, we will use [**Microsoft SQL Server**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) to run all our SQL code. Connect to SQL Server using the following information:
+All of our SQL code will be executed for this project using [**Microsoft SQL Server**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads). Use the following details to establish a connection to SQL Server:
+
 
 - **Server Name:** dap-projects-database.database.windows.net
 - **Username:** hackathon
