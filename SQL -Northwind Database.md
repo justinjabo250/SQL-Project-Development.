@@ -1,6 +1,11 @@
-# SQL Project by Emmanuel Ikogho
 
-This project uses SQL to answer five questions about a fictional online retail company. The data for the project is provided in the Northwind database.
+
+![SQL](https://github.com/justinjabo250/SQL-Project-Development./assets/115732734/f456c147-66f3-4ca7-bf3a-5e856a2c6aeb)
+
+# SQL Project Developement by Justin Jabo
+
+In order to respond to five inquiries regarding a hypothetical internet retail business, this project uses SQL. The Northwind database offers the information needed for the project.
+
 
 ## 1. What are the total sums of freights of ship cities that have orders from 2 or more customers?
 
