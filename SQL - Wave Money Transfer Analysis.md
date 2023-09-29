@@ -1,4 +1,7 @@
+
 # Wave Money Transfer Analysis
+
+<img src="https://user-images.githubusercontent.com/115732734/271091638-c6361953-7d70-42ce-95c8-1a5cfc808b43.gif" width="500">
 
 I will be using SQL to analyze a money transfer business operated by a company called Wave. The provided schema is a slightly simplified glimpse of some tables from Wave's actual PostgreSQL schema.
 
